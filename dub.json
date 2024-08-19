@@ -1,0 +1,8 @@
+{
+    "name": "todo_list_manager",
+    "description": "A simple D language todo list manager",
+    "dependencies": {
+        "vibe-d": "~>0.9.3"
+    }
+ }
+ 
